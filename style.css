@@ -1,0 +1,41 @@
+body {
+  font-family: sans-serif;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td {
+  padding: 5px;
+  text-align: center;
+}
+
+.vertical {
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+}
+
+ol {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+li {
+  margin-right: 30px;
+}
+
+th {
+  width: 100px;
+  font-weight: 900;
+}
+h1 {
+  font-size: 36px;
+}
+
+h1 {
+  align-items: center;
+}
