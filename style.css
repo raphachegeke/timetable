@@ -85,3 +85,9 @@ table td:nth-child(13),
 table td:nth-child(14) {
   width: 55%;
 }
+
+.a, a{
+  text-align: end;
+  text-decoration: none;
+  color: blue;
+}
