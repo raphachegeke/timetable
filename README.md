@@ -6,7 +6,7 @@ This project contains the IYF Weekend Academy school timetable created using HTM
 - `index.html` – Main file with the timetable layout.
 - `style.css` – Styling for the timetable.
 - `README.md` – Project description.
-- `timetable.jpeg` -- Timetable preview
+- `timetable_preview.png` -- Timetable preview
 
 ## Live Preview
 View the timetable online:  
