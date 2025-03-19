@@ -20,3 +20,5 @@ View the timetable online:
 
 ## Author
 Rapha Chege Kamunu
+raphachegekamunu@gmail.com
+0748397839
