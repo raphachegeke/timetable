@@ -3,18 +3,41 @@ body {
   align-items: center;
 }
 
+h1 {
+  width: fit-content;
+}
+
 table {
+  width: 100%;
   border-collapse: collapse;
+  table-layout: fixed;
 }
 
+thead th,
 td {
-  padding: 5px;
+  padding: 10px;
   text-align: center;
+  border: 1px solid black;
 }
 
-.vertical {
+th {
+  font-weight: 900;
+  background-color: #BAC0B6;
+}
+
+thead th {
+  width: auto;
+}
+
+
+table th, table td {
+  width: 7.14%; 
+}
+
+.verticalText {
   writing-mode: vertical-rl;
   text-orientation: upright;
+  font-weight: 900;
 }
 
 ol {
@@ -26,14 +49,39 @@ li {
   margin-right: 30px;
 }
 
-th {
-  width: 100px;
-  font-weight: 900;
-}
-h1 {
-  font-size: 36px;
+table th:nth-child(1),
+table th:nth-child(6),
+table th:nth-child(10),
+table td:nth-child(1),
+table td:nth-child(6),
+table td:nth-child(10) {
+  width: 55%;
 }
 
-h1 {
-  align-items: center;
+table th:nth-child(2),
+table th:nth-child(3),
+table td:nth-child(2),
+table td:nth-child(3) {
+  width: 25%;
+}
+
+table th:nth-child(4),
+table th:nth-child(5),
+table th:nth-child(7),
+table th:nth-child(8),
+table th:nth-child(9),
+table th:nth-child(11),
+table th:nth-child(12),
+table th:nth-child(13),
+table th:nth-child(14),
+table td:nth-child(4),
+table td:nth-child(5),
+table td:nth-child(7),
+table td:nth-child(8),
+table td:nth-child(9),
+table td:nth-child(11),
+table td:nth-child(12),
+table td:nth-child(13),
+table td:nth-child(14) {
+  width: 55%;
 }
