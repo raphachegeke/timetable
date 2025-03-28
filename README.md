@@ -15,8 +15,7 @@ This project presents the **IYF school timetable**, carefully crafted using sema
 🌐 **View Online:** [timetable-ebon-five.vercel.app](https://timetable-ebon-five.vercel.app/)  
 
 ## **Screenshot**  
-![Timetable Preview](https://i.postimg.cc/B6YMKtzh/timetable-preview.jpg)
-
+![Timetable Preview](https://i.postimg.cc/QtYRccxP/timetable-preview.jpg)
 ## **Usage Guide**  
 1️⃣ Open `index.html` in any web browser for local viewing.  
 2️⃣ Or visit the **live preview link** above for instant access.  
