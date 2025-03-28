@@ -1,25 +1,27 @@
-# IYF Timetable Assignment
+# **IYF Weekend Academy – Timetable Assignment**  
 
-This project contains the IYF Weekend Academy school timetable created using HTML and CSS.
+A structured **HTML & CSS** timetable for the **IYF Weekend Academy**, designed for clarity and ease of access.  
 
-## Files Included
-- `index.html` – Main file with the timetable layout.
-- `style.css` – Styling for the timetable.
-- `README.md` – Project description.
-- `timetable_preview.png` -- Timetable preview
+## **Project Overview**  
+This project presents the **IYF school timetable**, carefully crafted using semantic **HTML** and responsive **CSS** for a clean, visually appealing layout.  
 
-## Live Preview
-View the timetable online:  
-[https://timetable-ebon-five.vercel.app/](https://timetable-ebon-five.vercel.app/)
+## **Files Included**  
+📂 **index.html** – Timetable structure  
+🎨 **style.css** – Styling and responsiveness  
+📜 **README.md** – Project details  
+🖼️ **timetable_preview.png** – Visual preview  
 
-## Screenshot
-[![Timetable Preview](https://i.postimg.cc/Ghd2DmJt/20250319-204747.jpg)](https://postimg.cc/F1CN5m6X)
+## **Live Preview**  
+🌐 **View Online:** [timetable-ebon-five.vercel.app](https://timetable-ebon-five.vercel.app/)  
 
-## How to Use
-- Open `index.html` in any web browser to view locally.
-- Or visit the link above to view online.
+## **Screenshot**  
+[![[20250328-040025.jpg](https://postimg.cc/k6SQrMq8)  
 
-## Author
-Rapha Chege Kamunu
-raphachegekamunu@gmail.com
-0748397839
+## **Usage Guide**  
+1️⃣ Open `index.html` in any web browser for local viewing.  
+2️⃣ Or visit the **live preview link** above for instant access.  
+
+## **Author**  
+✍️ **Rapha Chege Kamunu**  
+📧 raphachegekamunu@gmail.com  
+📞 0748397839

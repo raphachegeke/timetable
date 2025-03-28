@@ -1,43 +1,37 @@
 body {
-  font-family: sans-serif;
-  align-items: center;
+  font-family: Arial, sans-serif;
+  margin: 20px;
 }
 
 h1 {
+  text-align: center;
   width: fit-content;
 }
 
 table {
-  width: 100%;
   border-collapse: collapse;
-  table-layout: fixed;
+  width: 100%;
+  margin-bottom: 20px;
 }
 
-thead th,
-td {
-  padding: 10px;
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
   text-align: center;
-  border: 1px solid black;
 }
 
 th {
-  font-weight: 900;
-  background-color: #BAC0B6;
-}
-
-thead th {
-  width: auto;
-}
-
-
-table th, table td {
-  width: 7.14%; 
+  background-color: #f2f2f2;
 }
 
 .verticalText {
   writing-mode: vertical-rl;
   text-orientation: upright;
-  font-weight: 900;
+  text-align: center;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9;
 }
 
 ol {
@@ -46,48 +40,12 @@ ol {
 }
 
 li {
-  margin-right: 30px;
+  margin-right: 26px;
 }
 
-table th:nth-child(1),
-table th:nth-child(6),
-table th:nth-child(10),
-table td:nth-child(1),
-table td:nth-child(6),
-table td:nth-child(10) {
-  width: 55%;
-}
-
-table th:nth-child(2),
-table th:nth-child(3),
-table td:nth-child(2),
-table td:nth-child(3) {
-  width: 25%;
-}
-
-table th:nth-child(4),
-table th:nth-child(5),
-table th:nth-child(7),
-table th:nth-child(8),
-table th:nth-child(9),
-table th:nth-child(11),
-table th:nth-child(12),
-table th:nth-child(13),
-table th:nth-child(14),
-table td:nth-child(4),
-table td:nth-child(5),
-table td:nth-child(7),
-table td:nth-child(8),
-table td:nth-child(9),
-table td:nth-child(11),
-table td:nth-child(12),
-table td:nth-child(13),
-table td:nth-child(14) {
-  width: 55%;
-}
-
-.a, a{
-  text-align: end;
+a {
   text-decoration: none;
-  color: blue;
+  color: blueviolet;
+  text-align: center;
+  margin-top: 20px;
 }
